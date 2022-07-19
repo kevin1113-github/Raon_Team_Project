@@ -1,7 +1,12 @@
 # Team_Project
 -------------------
 2022년도 씨애랑 라온 하계워크샵 / 소프트웨어 전시회 팀 프로젝트
+
+
+
 Trello - https://trello.com/b/GYNyQinF
+
+<img src = "https://github.com/kevin1113-github/Raon_Team_Project/blob/master/trello-board-qr-code.png">
 
 
 # 사용 유니티 버전
